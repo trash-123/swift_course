@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "242403b5f15269b8271091b13021cc18"
+build_time: [500223987, 280158000]
+inputs:
+  "/Users/alvaro/Documents/workspaces/XCodeWS/Hamburguesas/Hamburguesas/AppDelegate.swift": [500221789, 0]
+  "/Users/alvaro/Documents/workspaces/XCodeWS/Hamburguesas/Datos.swift": [500223168, 0]
+  "/Users/alvaro/Documents/workspaces/XCodeWS/Hamburguesas/Hamburguesas/ViewController.swift": [500223970, 0]
